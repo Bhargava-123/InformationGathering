@@ -28,7 +28,7 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## OUTPUT:
 
-![Uploading image.png…]()
+![image](https://github.com/Bhargava-123/InformationGathering/assets/85554376/3f33b34f-3f5e-42ab-8dbf-ef42991af016)
 
 
 
@@ -48,7 +48,8 @@ ping saveetha.ac.in
 get further detail by using ip2location.com website.
 ## Output:
 
-![Screenshot from 2023-05-15 04-32-04](https://github.com/A-Thiyagarajan/InformationGathering/assets/118707693/ad2a8edd-7197-44ae-9f54-94375c7114a9)
+![Uploading image.png…]()
+
 
 
 ## History of the website:
