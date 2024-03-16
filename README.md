@@ -41,7 +41,8 @@ ping saveetha.ac.in
 ```
 ## Output:
 
-![Screenshot from 2023-05-15 05-11-17](https://github.com/A-Thiyagarajan/InformationGathering/assets/118707693/18c141eb-f997-4e6a-970b-1278bf0f085f)
+![Uploading image.png…]()
+
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
