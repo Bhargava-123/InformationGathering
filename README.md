@@ -41,14 +41,16 @@ ping saveetha.ac.in
 ```
 ## Output:
 
-![Uploading image.png…]()
+![image](https://github.com/Bhargava-Shankar/InformationGathering/assets/85554376/c7abceda-7e1e-42e6-b917-fea4c09eeeca)
+
 
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
 ## Output:
 
-![Uploading image.png…]()
+![image](https://github.com/Bhargava-Shankar/InformationGathering/assets/85554376/f6c86cf9-907d-4138-89cd-309ad5148438)
+
 
 
 
