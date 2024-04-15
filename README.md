@@ -122,7 +122,8 @@ sudo traceroute -T www.saveetha.ac.in
 ## Output:
 
 
-![Screenshot from 2023-05-15 04-51-31](https://github.com/A-Thiyagarajan/InformationGathering/assets/118707693/a4c85efc-4084-4513-895e-325f5f53f5f7)
+![image](https://github.com/Bhargava-Shankar/InformationGathering/assets/85554376/ba3aac42-e175-4245-997a-592ae7b9c4b1)
+
 
 
 
@@ -133,7 +134,8 @@ sudo traceroute -U www.saveetha.ac.in
 ## Output:
 
 
-![Screenshot from 2023-05-15 04-54-26](https://github.com/A-Thiyagarajan/InformationGathering/assets/118707693/8c7b84b9-8045-45c3-ba6a-f2af47f40e5e)
+![image](https://github.com/Bhargava-Shankar/InformationGathering/assets/85554376/05f25ead-1322-42fa-8e1b-a1c211effdc1)
+
 
 
 
@@ -143,7 +145,8 @@ sudo traceroute  www.saveetha.ac.in
 ```
 ## Output:
 
-![Screenshot from 2023-05-15 04-53-50](https://github.com/A-Thiyagarajan/InformationGathering/assets/118707693/00a45edd-a2df-4cc6-858c-87d5b4a6b659)
+![image](https://github.com/Bhargava-Shankar/InformationGathering/assets/85554376/840d896a-2158-4979-8e8c-388f75d51e8b)
+
 
 
 
