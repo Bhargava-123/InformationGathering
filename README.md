@@ -1,4 +1,4 @@
-# InformationGathering
+# EX 2 : InformationGathering
 
 # AIM:
 
