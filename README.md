@@ -17,7 +17,6 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
-<<<<<<< HEAD
 ### Pen Test Tools Categories:  
 
 Following Categories of pen test tools are identified for information gathering:
